@@ -1,0 +1,14 @@
+node_modules
+dist
+.tmp
+.sass-cache
+app/bower_components
+test/bower_components
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
